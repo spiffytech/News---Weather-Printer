@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+
+<title>Yahoo! Weather - Raleigh, NC</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Raleigh__NC/*http://weather.yahoo.com/forecast/27607_f.html</link>
+<description>Yahoo! Weather for Raleigh, NC</description>
+<language>en-us</language>
+<lastBuildDate>Fri, 13 Feb 2009 8:51 am EST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Raleigh" region="NC"   country="US"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="49"   direction="240"   speed="3" />
+<yweather:atmosphere humidity="48"  visibility="10"  pressure="30.08"  rising="0" />
+<yweather:astronomy sunrise="7:04 am"   sunset="5:55 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/us/nws/th/main_142b.gif</url>
+</image>
+<item>
+<title>Conditions for Raleigh, NC at 8:51 am EST</title>
+<geo:lat>35.82</geo:lat>
+<geo:long>-78.66</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Raleigh__NC/*http://weather.yahoo.com/forecast/27607_f.html</link>
+<pubDate>Fri, 13 Feb 2009 8:51 am EST</pubDate>
+<yweather:condition  text="Mostly Cloudy"  code="28"  temp="49"  date="Fri, 13 Feb 2009 8:51 am EST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/28.gif"/><br />
+<b>Current Conditions:</b><br />
+Mostly Cloudy, 49 F<BR />
+<BR /><b>Forecast:</b><BR />
+Fri - Partly Cloudy. High: 67 Low: 41<br />
+Sat - Showers. High: 50 Low: 38<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Raleigh__NC/*http://weather.yahoo.com/forecast/USNC0558_f.html">Full Forecast at Yahoo! Weather</a><BR/>
+(provided by The Weather Channel)<br/>
+]]></description>
+<yweather:forecast day="Fri" date="13 Feb 2009" low="41" high="67" text="Partly Cloudy" code="30" />
+<yweather:forecast day="Sat" date="14 Feb 2009" low="38" high="50" text="Showers" code="11" />
+<guid isPermaLink="false">27607_2009_02_13_8_51_EST</guid>
+</item>
+</channel>
+</rss><!-- api1.weather.ac4.yahoo.com uncompressed Fri Feb 13 06:49:26 PST 2009 -->
